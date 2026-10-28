@@ -2,7 +2,7 @@
 
 A web app that helps a UK energy buyer decide how much power to buy from the day-ahead market. It shows the latest wind forecast available at decision time and measures how accurate the forecasts were.
 
-**Live app:** <PASTE YOUR VERCEL LINK HERE>
+**Live app:** [//random-six-sage.vercel.app](https://random-six-sage.vercel.app/)
 
 ## What it does
 
