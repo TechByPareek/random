@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+dist/
+
+# Environment and editor
+.env
+.vscode/
+
+# Local check outputs
+backend/data/check_output.txt
+backend/data/alignment_output.txt
